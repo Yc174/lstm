@@ -8,6 +8,6 @@
 
 3.[class_predict](./class_predict) 图片分类
 
-4.[grid-lstm-tensorflow](./grid-lstm-tensorflow) 一个使用grid-lstm进行文本预测的例子
+4.[grid-lstm-tensorflow](https://github.com/phvu/grid-lstm-tensorflow) 一个使用grid-lstm进行文本预测的例子
 
 5.[LSTM_PTB](./LSTM_PTB) tensorflow教程里的例子
