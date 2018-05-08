@@ -1,0 +1,4 @@
+model_checkpoint_path: "save-30199"
+all_model_checkpoint_paths: "save/model.ckpt-0"
+all_model_checkpoint_paths: "save/model.ckpt-30199"
+all_model_checkpoint_paths: "save-30199"
